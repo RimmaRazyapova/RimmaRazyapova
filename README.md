@@ -11,7 +11,7 @@
 
 ### About me
 - :blue_book: I am currently learning **manual** and **automated** testing
-- :page_facing_up: Know about my experiences [HeadHunter]()  
+- :page_facing_up: Know about my experiences [HeadHunter](https://ufa.hh.ru/resume/f15c1ec2ff0c2dd8840039ed1f644556346431)  
 - :envelope: How to reach me **rimmaraziapova@yandex.ru**
 
 
